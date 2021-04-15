@@ -1,1 +1,3 @@
 Pouzivatelske rozhranie na priemyselne zariadenia
+
+Anotacia.
